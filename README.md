@@ -19,7 +19,7 @@ I’m a passionate **Data Scientist** with a knack for transforming raw data int
   - **Machine Learning:** Scikit-learn, TensorFlow 
   - **Data Visualization:** Matplotlib, Seaborn, Power BI  
   - **Data Wrangling:** Pandas, NumPy, SQL  
-- 📊 **Projects:** Built predictive models, automated ETL pipelines, and created interactive dashboards to visualize complex datasets.  
+- 📊 **Projects:** Built predictive models, created interactive dashboards to visualize complex datasets.  
 - 📫 **Reach me at:** [ianushkamishra29@gmail.com](mailto:ianushkamishra29@gmail.com)  
 - 📄 **Check my** [Resume](https://drive.google.com/file/d/1QaX9KbMJ_zU2b6zzOt3tS5gdWR9ET99B/view?usp=sharing) for more details.  
 - 🏆 **Fun fact:** *I analyze data all day, but my cat ignores all my findings* 🐱📊  
