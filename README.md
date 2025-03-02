@@ -21,7 +21,7 @@ I’m a passionate **Data Scientist** with a knack for transforming raw data int
   - **Data Wrangling:** Pandas, NumPy, SQL  
 - 📊 **Projects:** Built predictive models, created interactive dashboards to visualize complex datasets.  
 - 📫 **Reach me at:** [ianushkamishra29@gmail.com](mailto:ianushkamishra29@gmail.com)  
-- 📄 **Check my** [Resume](https://drive.google.com/file/d/1QaX9KbMJ_zU2b6zzOt3tS5gdWR9ET99B/view?usp=sharing) for more details.  
+- 📄 **Check my** [Resume](https://drive.google.com/file/d/1bRPrfAojmuCD2x7kxa3auCnjtu8cR8pW/view?usp=sharing) for more details.  
 - 🏆 **Fun fact:** *I analyze data all day, but my cat ignores all my findings* 🐱📊  
 
 ---
