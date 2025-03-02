@@ -16,7 +16,7 @@ I’m a passionate **Data Scientist** with a knack for transforming raw data int
 - 🚀 **Exploring:** Deep Learning architectures, Explainable AI (XAI), and advanced data manipulation techniques using **Pandas** and **NumPy**.  
 - 💡 **Expertise in:**  
   - **Programming:** Python, SQL  
-  - **Machine Learning:** Scikit-learn, TensorFlow, XGBoost  
+  - **Machine Learning:** Scikit-learn, TensorFlow 
   - **Data Visualization:** Matplotlib, Seaborn, Power BI  
   - **Data Wrangling:** Pandas, NumPy, SQL  
 - 📊 **Projects:** Built predictive models, automated ETL pipelines, and created interactive dashboards to visualize complex datasets.  
@@ -46,6 +46,17 @@ I’m a passionate **Data Scientist** with a knack for transforming raw data int
   <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50" height="50"/></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50" height="50"/></a>
+  <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50" height="50"/></a>
+  <a href="https://d3js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="50" height="50"/></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/></a>
+  <a href="https://www.anaconda.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" width="50" height="50"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/></a>
 </p>
 
 ---
