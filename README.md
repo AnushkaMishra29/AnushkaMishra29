@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Mishra</h1>
-<h3 align="center">Artificial Intelligence | Data Science | Machine Learning |  🚀</h3>
+<h3 align="center">Analysis| Artificial Intelligence | Data Science | Machine Learning |  🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anushkamishra29&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
