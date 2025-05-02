@@ -10,18 +10,21 @@
 ## 🔍 About Me
 
 👩‍💻 **Data Enthusiast | Problem Solver | Lifelong Learner**  
-I’m a passionate **Data Scientist** with a knack for transforming raw data into actionable insights. My journey revolves around leveraging **Machine Learning**, **AI**, and **Analytics** to solve real-world problems and drive data-driven decision-making.  
+I’m a passionate **Data Analyst** with a knack for transforming raw data into actionable insights. My journey revolves around leveraging **Machine Learning**, **AI**, and **Analytics** to solve real-world problems and drive data-driven decision-making.  
 
-- 🎯 **Currently working on:** [AI Bias in Resume Screening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5160444) – Exploring fairness and transparency in AI-driven hiring systems.  
+- 🎯 **Worked on:** [AI Bias in Resume Screening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5160444) – Exploring fairness and transparency in AI-driven hiring systems.  
 - 🚀 **Exploring:** Deep Learning architectures, Explainable AI (XAI), and advanced data manipulation techniques using **Pandas** and **NumPy**.  
 - 💡 **Expertise in:**  
-  - **Programming:** Python, SQL  
-  - **Machine Learning:** Scikit-learn, TensorFlow 
-  - **Data Visualization:** Matplotlib, Seaborn, Power BI  
-  - **Data Wrangling:** Pandas, NumPy, SQL  
+  - **Programming:** Python, SQL, Javascript 
+  - **Machine Learning:** Supervised Learning (Scikit-learn, TensorFlow, Pandas, NumPy, SciPy) 
+  - **Data Analysis & Visualization:** EDA, Data Storytelling, Data Visualization (Power BI, Matplotlib, Seaborn)  
+  - **Statistical & Predictive Techniques:** A/B Testing, Statistical Analysis, Predictive Modeling, Feature Engineering
+  - **Data Engineering:** : ETL Pipelines, Apache Airflow, Data Warehousing, Database Design, Data Modeling
+  - **Tools & Platforms:** Jupyter Notebook, Anaconda, VS Code, Git, JIRA, MS Excel, MS PowerPoint, Google Colab
+  - **Communication & Collaboration: **  Client Interaction, Stakeholder Management, Technical Presentations
 - 📊 **Projects:** Built predictive models, created interactive dashboards to visualize complex datasets.  
 - 📫 **Reach me at:** [ianushkamishra29@gmail.com](mailto:ianushkamishra29@gmail.com)  
-- 📄 **Check my** [Resume](https://drive.google.com/file/d/1bRPrfAojmuCD2x7kxa3auCnjtu8cR8pW/view?usp=sharing) for more details.  
+- 📄 **Check my** [Resume](https://drive.google.com/file/d/1G48amgAJdmiglXsb6sk4kUnCRZHVamk0/view?usp=sharing) for more details.  
 - 🏆 **Fun fact:** *I analyze data all day, but my cat ignores all my findings* 🐱📊  
 
 ---
