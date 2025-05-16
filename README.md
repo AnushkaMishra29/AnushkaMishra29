@@ -13,10 +13,11 @@
 I’m a passionate **Data Enthusiast** with a knack for transforming raw data into actionable insights. My journey revolves around leveraging **Machine Learning**, **AI**, and **Analytics** to solve real-world problems and drive data-driven decision-making.  
 
 - 🎯 **Worked on:** [AI Bias in Resume Screening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5160444) – Exploring fairness and transparency in AI-driven hiring systems.  
-- 🚀 **Exploring:** Deep Learning architectures, Explainable AI (XAI), and advanced data manipulation techniques using **Pandas** and **NumPy**.  
+- 🚀 **Exploring:** Deep Learning architectures, Explainable AI (XAI), and advanced data manipulation techniques using **Pandas**,**PyTorch** and **NumPy**.  
 - 💡 **Expertise in:**  
-  - **Programming:** Python, SQL, Javascript 
-  - **Machine Learning:** Supervised Learning (Scikit-learn, TensorFlow, Pandas, NumPy, SciPy) 
+  - **Programming:** Python, SQL
+  - **Machine Learning:** Supervised Learning & Unsupervised Learning (Scikit-learn, TensorFlow, Pandas, NumPy, SciPy)
+  - **Deep Learning:** Artificial Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, LSTM, OpenCV, NLP
   - **Data Analysis & Visualization:** EDA, Data Storytelling, Data Visualization (Power BI, Matplotlib, Seaborn)  
   - **Statistical & Predictive Techniques:** A/B Testing, Statistical Analysis, Predictive Modeling, Feature Engineering
   - **Data Engineering:** : ETL Pipelines, Apache Airflow, Data Warehousing, Database Design, Data Modeling
