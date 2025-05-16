@@ -10,7 +10,7 @@
 ## 🔍 About Me
 
 👩‍💻 **Data Enthusiast | Problem Solver | Lifelong Learner**  
-I’m a passionate **Data Analyst** with a knack for transforming raw data into actionable insights. My journey revolves around leveraging **Machine Learning**, **AI**, and **Analytics** to solve real-world problems and drive data-driven decision-making.  
+I’m a passionate **Data Enthusiast** with a knack for transforming raw data into actionable insights. My journey revolves around leveraging **Machine Learning**, **AI**, and **Analytics** to solve real-world problems and drive data-driven decision-making.  
 
 - 🎯 **Worked on:** [AI Bias in Resume Screening](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5160444) – Exploring fairness and transparency in AI-driven hiring systems.  
 - 🚀 **Exploring:** Deep Learning architectures, Explainable AI (XAI), and advanced data manipulation techniques using **Pandas** and **NumPy**.  
@@ -21,7 +21,7 @@ I’m a passionate **Data Analyst** with a knack for transforming raw data into 
   - **Statistical & Predictive Techniques:** A/B Testing, Statistical Analysis, Predictive Modeling, Feature Engineering
   - **Data Engineering:** : ETL Pipelines, Apache Airflow, Data Warehousing, Database Design, Data Modeling
   - **Tools & Platforms:** Jupyter Notebook, Anaconda, VS Code, Git, JIRA, MS Excel, MS PowerPoint, Google Colab
-  - **Communication & Collaboration: **  Client Interaction, Stakeholder Management, Technical Presentations
+  - **Communication & Collaboration:**  Client Interaction, Stakeholder Management, Technical Presentations
 - 📊 **Projects:** Built predictive models, created interactive dashboards to visualize complex datasets.  
 - 📫 **Reach me at:** [ianushkamishra29@gmail.com](mailto:ianushkamishra29@gmail.com)  
 - 📄 **Check my** [Resume](https://drive.google.com/file/d/1G48amgAJdmiglXsb6sk4kUnCRZHVamk0/view?usp=sharing) for more details.  
