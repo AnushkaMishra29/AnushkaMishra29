@@ -9,7 +9,7 @@
 
 ## 🔍 About Me
 
-👩‍💻 **Product Analyst | Data-Driven Decision Maker | IIT-IIM (MS Data Science & Management)**  
+👩‍💻 **Product Analyst | Data-Driven Decision Maker | IIT Indore - IIM Indore (MS Data Science & Management)**  
 
 I am a **Product-focused Analyst** with 2.5+ years of experience across engineering and analytics, working at the intersection of **product, data, and business strategy**.
 
